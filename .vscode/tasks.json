@@ -5,7 +5,7 @@
     "tasks": [
         {
             "label": "Abrir fichero en Chrome",
-            "command": "explorer",
+            "command": "Chrome",
             "windows": {
                 "command": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
             },
