@@ -6,25 +6,43 @@
 body{
     background-color: gainsboro;
     font-family: Ranga;
-    font-size: 1em;
+    font-size:  1.5em;
 
 }
 h1{
     background-color: darkorchid;
-    font-size: 4em;
+    color: white;
+    font-size: 4.5em;
     font-family: Pacifico;
+    text-align: center;
 }
 
 h2{
     background-color: chartreuse;
     font-family: Mystery Quest;
     font-style: italic;
-    font-size: 2em;
+    font-size: 3em;
 }
 
 h3{
     background-color: lightcoral;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 1.5em;
+    font-size: 2em;
+}
+ul{
+    list-style: square; 
+}
+em{
+    color: green;
+}
+span{
+    text-decoration-line: underline;
+    vertical-align: 50%;
+}
+img.letronas{
+    float:right;
+}
+img.laboral{
+    float:right;
 }
 
