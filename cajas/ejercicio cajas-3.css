@@ -1,0 +1,45 @@
+
+body{
+    border-left: 10px solid #fff176;
+    border-right: 10px solid #fff176;
+    background-color: white;
+    margin: 0;
+}
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #fff176;
+    margin:0;
+}
+.efemeride{
+    float:left;
+    width: 34em;
+    border: 5px solid #fbc02d;
+    margin:10px;
+    margin-top: none;
+    background-color:#ffeb3b
+}
+div.efemeride h1{
+    background-color:#fbc02d;
+    color: brown;
+    text-align: left;
+}
+.texto{
+    float:left;
+    width: 15em;
+    background-color:#f57f17;
+    margin:10px;
+    margin-top:none;
+}
+div.texto h1{
+    background-color:#f57f17;
+    color: white;
+    text-align: left;
+}
+p{
+    background-color:#ffeb3b;
+}
+html{
+    margin-bottom: 0;
+    padding-bottom:2rem;
+}
